@@ -61,8 +61,8 @@
    <a href="https://github.com/actions " target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="githubactions" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.redhat.com/en/topics/devops/what-is-devsecops " target="_blank" rel="noreferrer"> <img src="https://mkt-cdn.dynatrace.com/assets/Marketing/content-images/_1920x1088_crop_center-center_100_line/devsecops-image-2000-6557ba1b00.png" alt="devsecops" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/ " target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:775/1*bIIzkEI5HSaVkYyxxohK2g.png" alt="Kafka" width="40" height="40"/> </a>
-  
+    <a href="https://kafka.apache.org/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
 </p>
   </li>
   <li>
