@@ -98,6 +98,5 @@
     <p align="left">
        <a href="https://aws.amazon.com/fr/free/?gclid=CjwKCAjw57exBhAsEiwAaIxaZuiM2PFoXzlahi8Oduw7OBRNLfn6HXZaCiJXFEACRqSHnqs_jusO5hoC9mMQAvD_BwE&trk=15faae9b-ab87-4e8f-8946-c46e8264e383&sc_channel=ps&ef_id=CjwKCAjw57exBhAsEiwAaIxaZuiM2PFoXzlahi8Oduw7OBRNLfn6HXZaCiJXFEACRqSHnqs_jusO5hoC9mMQAvD_BwE:G:s&s_kwcid=AL!4422!3!645208863523!e!!g!!amazon%20web%20services!19572078132!145087520613" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="figma" width="40" height="40"/> </a>
         
-    </p>
-      </li>
+   
 </ul>
