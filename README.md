@@ -63,6 +63,8 @@
     <a href="https://www.redhat.com/en/topics/devops/what-is-devsecops " target="_blank" rel="noreferrer"> <img src="https://mkt-cdn.dynatrace.com/assets/Marketing/content-images/_1920x1088_crop_center-center_100_line/devsecops-image-2000-6557ba1b00.png" alt="devsecops" width="40" height="40"/> </a>
     <a href="https://kafka.apache.org/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-line-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
+    <a href="https://www.elastic.co/fr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Kafka" width="40" height="40"/> </a>
 </p>
   </li>
   <li>
@@ -91,4 +93,11 @@
    
 </p>
   </li>
+  <li>
+    <h4 align="left">Cloud platforms:</h3>
+    <p align="left">
+       <a href="https://aws.amazon.com/fr/free/?gclid=CjwKCAjw57exBhAsEiwAaIxaZuiM2PFoXzlahi8Oduw7OBRNLfn6HXZaCiJXFEACRqSHnqs_jusO5hoC9mMQAvD_BwE&trk=15faae9b-ab87-4e8f-8946-c46e8264e383&sc_channel=ps&ef_id=CjwKCAjw57exBhAsEiwAaIxaZuiM2PFoXzlahi8Oduw7OBRNLfn6HXZaCiJXFEACRqSHnqs_jusO5hoC9mMQAvD_BwE:G:s&s_kwcid=AL!4422!3!645208863523!e!!g!!amazon%20web%20services!19572078132!145087520613" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="figma" width="40" height="40"/> </a>
+        
+    </p>
+      </li>
 </ul>
