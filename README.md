@@ -102,5 +102,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harouy&layout=donut-vertical" alt="dahhou-ilyas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dahhou-ilyas&show_icons=true&locale=en" alt="dahhou-ilyas" /></p>
+
 </ul>
