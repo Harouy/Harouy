@@ -100,7 +100,7 @@
         
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harouy&layout=donut-vertical" alt="dahhou-ilyas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harouy&layout=donut-vertical" alt="Harouy" /></p>
 
 
 </ul>
